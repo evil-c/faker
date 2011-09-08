@@ -1,0 +1,6 @@
+en-hipster:
+  faker:
+    lorem:
+      # from http://www.hipsteripsum.me/
+      words: ["DIY", "mustache", "jean shorts", "tumblr", "irony", "hoodie", "next level", "cred", "helvetica", "yr", "raw", "denim", "gluten-free", "readymade", "8-bit", "Austin", "quinoa", "VHS", "wayfarers", "brunch", "you probably haven't heard of them", "blog", "lo-fi", "seitan", "biodiesel", "organic", "letterpress", "mcsweeney's", "single-origin coffee", "art party", "butcher", "squid", "williamsburg", "locavore", "viral", "mlkshk", "keytar", "salvia", "lomo.", "photo booth", "vegan", "thundercats", "wes anderson", "retro", "beard", "squid.", "american apparel", "chambray", "master cleanse", "fap", "trust fund", "3 wolf moon", "gentrify", "wolf", "vice", "terry richardson", "synth", "marfa", "ethical", "portland", "banksy", "farm-to-table.", "mixtape", "high life", "stumptown", "tattooed", "aesthetic", "carles", "cardigan", "Vinyl wolf", "shoreditch", "sartorial", "craft beer", "fanny pack", "cosby sweater", "leggings,", "scenester", "keffiyeh", "lomo", "twee", "freegan", "fixie", "farm-to-table", "+1", "banh mi", "food truck", "cred ", "cliche", "iphone", "whatever, homo", "messenger bag", "vice marfa", "etsy", "echo park", "brooklyn", "sustainable", "put a bird on it"]
+    
